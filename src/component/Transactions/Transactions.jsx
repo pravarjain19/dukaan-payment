@@ -40,7 +40,7 @@ const Transactions = () => {
         </div>
 
         <div className="table w-full mt-3 ">
-          <div className="col bg-gray-100 flex justify-between  px-4 text-slate-600 font-semibold py-2 rounded-md">
+          <div className="col bg-gray-100 flex justify-between  px-4 text-slate-600 font-semibold py-3 rounded-md">
             <p>Order ID</p>
             <p className="flex items-center gap-1 pl-10">
               Order date <CaretDownFill />{" "}
@@ -90,7 +90,7 @@ function Data() {
     <>
       <div className=" flex    px-4 my-4  justify-between">
         <p className=" text-[#0A66C2] font-semibold">#281209</p>
-        <p className="">7 july, 2023</p>
+        <p className="">7 July, 2023</p>
         <p className="  ">₹1,278.23</p>
         <p className=" pr-24 ">₹22</p>
       </div>
